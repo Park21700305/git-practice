@@ -1,3 +1,2 @@
 ## git-practice
-
-깃헙 꼴라보 연습
+GitHub study & Collaboration 실습을 위한 repository입니다.
